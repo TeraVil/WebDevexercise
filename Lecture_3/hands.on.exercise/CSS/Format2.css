@@ -1,8 +1,6 @@
-.h1 {
+header h1 {font-family: 'Times New Roman';
     color: green;
-    background-color: white;
-    font-family: "times new roman";
-    
+    background-color: white;   
 }
 
 a:link {

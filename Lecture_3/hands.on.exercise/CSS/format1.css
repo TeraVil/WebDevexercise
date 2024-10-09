@@ -1,0 +1,14 @@
+header h1 {
+    color: red;
+    font-family: 'Times New Roman';
+}
+
+a:link {
+  text-decoration: none;
+  background-color: #CCCCCC;
+}
+
+body {font-family: arial;
+color: #000099;
+background-color: white;
+}
