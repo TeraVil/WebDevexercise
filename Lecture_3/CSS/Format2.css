@@ -1,0 +1,16 @@
+.h1 {
+    color: green;
+    background-color: white;
+    font-family: "times new roman";
+    
+}
+
+a:link {
+  text-decoration: none;
+  background-color: white;
+}
+
+body {font-family: sans-serif;
+color:green;
+background-color: yellow;
+}
