@@ -1,0 +1,16 @@
+body {
+    columns: 3;
+}
+
+@media screen and (max-width: 600px) {
+    body{
+        columns:1;
+        color: blue;
+    }
+}
+@media screen and (max-width: 400px) and (orientation){
+    body{
+        columns:1;
+        color: blue;
+    }
+}

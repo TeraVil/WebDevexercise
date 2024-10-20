@@ -18,4 +18,5 @@ alert("Outputting " + numberOfStars + " stars: " + outputStars)
   while (isNaN(numberOfStars) || numberOfStars <=0) {
     alert("You did not enter a number greater than zero.");
     numberOfStars = prompt("Enter a number greater than zero?");
+    
   }
